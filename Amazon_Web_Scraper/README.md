@@ -27,4 +27,4 @@ Make sure you have the following installed:
 9. The resulting Excel file is saved with a timestamp in the file name.
 
 ## Conclusion
-By running this script, you will be able to scrape PS5 product data from Amazon's website and save it in an Excel file for further analysis or processing.
+By running this script, you will be able to scrape PS5 product or Every page data from Amazon's website and save it in an Excel file for further analysis or processing.
